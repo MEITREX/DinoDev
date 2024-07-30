@@ -1,0 +1,6 @@
+[submodule "dinodev_frontend"]
+	path = dinodev_frontend
+	url = https://github.com/MEITREX/dinodev_frontend/
+[submodule "dinodev_backend"]
+	path = dinodev_backend
+	url = https://github.com/MEITREX/dinodev_backend/
